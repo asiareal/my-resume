@@ -1,0 +1,29 @@
+{
+  "name": "my_resume",
+  "version": "1.0.0",
+  "description": "我的简历",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asiareal/myResume.git"
+  },
+  "keywords": [
+    "node",
+    "resume",
+    "gulp"
+  ],
+  "author": "asiawang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asiareal/myResume/issues"
+  },
+  "homepage": "https://github.com/asiareal/myResume#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-markdown": "^1.2.0",
+    "gulp-markdown-pdf": "^4.0.0"
+  }
+}
